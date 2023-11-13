@@ -14,7 +14,7 @@ img,
   border-radius: 2rem !important;
 }
 .video-wrapper {
-  overflow: hidden;
+  overflow: auto;
 }
 body {
   font-family: Inter Tight;
@@ -37,7 +37,7 @@ body {
 }
 .display-4 {
   font-family: 'Inter Tight', sans-serif;
-  font-size: 0.6rem;
+  font-size: 1rem;
   line-height: 1.5;
 }
 .display-4 > .mbr-iconfont {
@@ -1087,7 +1087,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #0c2c68;
+  background-color: #ffa600 !important;
 }
 .cid-tV4wAq5UGW button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;

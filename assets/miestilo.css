@@ -1,0 +1,14 @@
+.container-menu-personalizado{
+    width: 100%;
+    background-color: #282828;
+    display: flex;
+    font-family: "Century Gothic" !important;
+}
+
+.nav-link{
+    font-family: "Century Gothic";
+}
+
+.cid-tV4wAq5UGW .navbar-nav .nav-item .nav-link:hover {
+    background-color: rgba(23, 20, 226, 0.349);
+  }
